@@ -5,5 +5,6 @@ The goal of this project is to find the safest district in London based on the [
 ## Instruction
 This is jupyter notebook. Install jupyterlab to view and run it.
 https://jupyter.org/install
+
 Github does not show maps. <a href="https://nbviewer.jupyter.org/github/zicoabhidey/Data_Visualization_Toolbox/blob/master/folium.ipynb" target="_blank">view in nbviewer</a>
 
